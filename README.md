@@ -1,2 +1,1 @@
-# suck my pp
-# 
+Reviveclient for a vr game
